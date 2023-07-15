@@ -1,5 +1,5 @@
 # odin-recipes
-My first HTML Project-- A recipes website
+My First HTML Project-- Recipes Website
 
 Skills displayed:
 
