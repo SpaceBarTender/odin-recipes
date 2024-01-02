@@ -6,6 +6,13 @@ div {
    font-weight: 700;
 }
 
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
 .odd-number {
     background-color: pink;
     font-family: Verdana, DejaVu Sans, sans-serif;
