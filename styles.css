@@ -40,3 +40,15 @@ div {
 .button-two {
     background-color: yellow;
 }
+
+.avatar,
+.proportioned {
+    width: 300;
+    height: auto;
+}
+
+.avatar,
+.distorted {
+    width: 200;
+    height: 400;
+}
