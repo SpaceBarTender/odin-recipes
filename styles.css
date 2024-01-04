@@ -1,7 +1,20 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    /*border: 2px solid red;*/
+}
+
 li {
     color: blueviolet;
+    font-size: 24px;
 }
 
 h1 {
     color: slateblue;
+}
+
+
+p {
+    font-size: 20px;
 }
