@@ -18,3 +18,22 @@ h1 {
 p {
     font-size: 20px;
 }
+
+.one {
+    padding: 32px;
+    margin: 12px;
+    background-color: salmon;
+    border-color: purple;
+}
+
+.two {
+    background-color: lightblue;
+    border-color: red;
+}
+
+.three {
+    margin-left: 500px;
+    padding: 32px;
+    background-color: peachpuff;
+    border-color: tomato;
+}
