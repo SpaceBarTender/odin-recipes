@@ -16,5 +16,31 @@
     border: 1px solid #fff;
     width: 900px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
 }
+
+.links {
+    display: flex;
+    border: 1px solid #fff;
+    justify-content: flex-end; /*right-group alignment*/
+}
+
+.login {
+    margin-left: 20px;
+}
+
+.header-container {
+    color: #5995DA;
+    background-color: #D6E9FE;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;/*horizontal alignment*/
+    align-items: center; /*vertical alignment*/
+}
+
