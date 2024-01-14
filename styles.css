@@ -49,6 +49,6 @@ img {
 
 .imgg {
   display: flex;
-  align-self: center;
-  flex-wrap: wrap;
+  justify-content: center;
+  gap: 52px;
 }
