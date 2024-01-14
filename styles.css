@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -43,3 +45,18 @@ input {
   align-items: center;
 }
 
+.footer  {
+  background-color: #eeeeee;
+  margin-top: auto;
+  display: flex;
+}
+
+.footer .left-links, .footer .right-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer .right-links {
+  margin-left: auto;
+}
