@@ -1,5 +1,5 @@
-# odin-philosophy
-My First HTML Project-- Philosophical Website
+# odin-recipes
+My First HTML Project-- Recipes Website
 
 Skills displayed:
 
